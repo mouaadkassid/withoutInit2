@@ -1,0 +1,50 @@
+cd C:\Users\Mouaad\Desktop\...
+sass --watch scss:css
+
+
+
+
+
+
+
+
+
+@media(max-width:767px){}
+@media(min-width:768px){}
+@media(min-width:992px){}
+@media(min-width:1200px){}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sass 
+make website with sass 5
+bootstrap make website with bootstrap/sass 5
+learn Php & Mysql 
+make website ecommerce with php ecommerce
+than learn Laravel practice laravel
+make EST PFE
+learn Angular apply a lot with Angular
+
